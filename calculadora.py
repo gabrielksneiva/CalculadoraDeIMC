@@ -45,3 +45,7 @@ elif imc>=35 and imc<40:
     msg("O seu IMC indica obesidade de grau II (severa)")
 else:
     msg("O seu IMC indica obesidade de grau III (mórbida)")
+
+
+
+input("Pressione Enter para encerrar o programa!")
